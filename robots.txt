@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phaiphaebe.dosbox-x.software/sitemap.xml
